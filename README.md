@@ -1,2 +1,5 @@
 # University
-Bout de code que j'utilise pour l'université.
+
+Bits of code I use for university.
+
+Nothing really important here but I want to keep traces of it.
