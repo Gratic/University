@@ -86,6 +86,16 @@ public class LinkList<T> {
         lastLink().next = new LinkList<T>(element, null);
     }
 
+    public void addLast(T element)
+    {
+        LinkList<T> buffer = this;
+        for(int i = 0; i < linkLength() - 1; i++)
+        {
+            buffer = buffer.next;
+        }
+        buffer.next = new LinkList<T>(element);
+    }
+
     public void addAtIndex(int index, T element)
     {
         if(index > 0)

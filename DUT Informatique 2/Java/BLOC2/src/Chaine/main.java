@@ -25,6 +25,7 @@ public class main {
         first.addAtIndex(3, "Nier");
         first.addAtIndex(4, "Automata");
         first.append("jeu");
+        first.addLast("oui");
         first.toStringAll();
 
         System.out.println(first.linkLength());

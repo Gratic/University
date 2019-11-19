@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5d667d9-c0e3-4177-b8f7-6b47b7f3513a" name="Default Changelist" comment="" />
+    <list default="true" id="f5d667d9-c0e3-4177-b8f7-6b47b7f3513a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BLOC3/src/LinkList/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLOC2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BLOC2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Chaine/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Chaine/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Chaine/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Chaine/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Composite/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Composite/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Composite/Composite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Composite/Composite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Composite/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Composite/Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Composite/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Composite/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/META-INF/BLOC2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Musique/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Musique/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Musique/AlbumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Musique/AlbumTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/Musique/Morceau.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/Musique/Morceau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/TRI/Stuff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/TRI/Stuff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BLOC2/TRI/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BLOC2/TRI/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chaine/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chaine/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chaine/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chaine/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Musique/AlbumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Musique/AlbumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BLOC3/src/LinkList/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BLOC3/src/LinkList/LinkList.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,15 +38,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1TNnYPEMkBWQYJr3Q599mGyWRmA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -47,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.main (2)">
+  <component name="RunManager" selected="Application.main (1)">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chaine.main" />
       <module name="BLOC2" />
@@ -104,8 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main (2)" />
         <item itemvalue="JUnit.AlbumTest" />
         <item itemvalue="Application.main" />
       </list>
@@ -123,5 +150,18 @@
       <updated>1573309467195</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
