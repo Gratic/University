@@ -1,3 +1,12 @@
+__author__ = 'Zaleks'
+__copyright__ = 'Copyright 2019, Le_Grand_Casse'
+__credits__ = ['']
+__license__ = 'WTFPL'
+__version__ = '1.1'
+__maintainer__ = ''
+__email__ = ''
+__status__ = ''
+
 def ip_str_denormalize(ip):
 	ip_bin = []
 	ip_str = ""

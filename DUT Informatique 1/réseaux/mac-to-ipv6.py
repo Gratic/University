@@ -1,3 +1,12 @@
+__author__ = 'Zaleks'
+__copyright__ = 'Copyright 2019, Le_Grand_Casse'
+__credits__ = ['']
+__license__ = 'WTFPL'
+__version__ = '1.1'
+__maintainer__ = ''
+__email__ = ''
+__status__ = ''
+
 mac_raw = input("Entrez l'adresse mac (minuscule) : ").strip()
 mac = ""
 check = "abcdef0123456789"
